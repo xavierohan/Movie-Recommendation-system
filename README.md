@@ -1,2 +1,2 @@
-# xavierohan1-gmail.com
-Movie Recommendation system
+# CONTENT BASED MOVIE RECOMMENDATION SYSTEM
+
